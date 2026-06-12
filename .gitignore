@@ -1,0 +1,26 @@
+# Cache kompilasi Python runtime
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Lingkungan virtual lokal (Virtual Environments)
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Konfigurasi Editor & Integrated Development Environment (IDE)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Folder output pengujian lokal (Default dari proses ekstraksi)
+/src_extracted/
+/output_directory/
+output/
+dist/
