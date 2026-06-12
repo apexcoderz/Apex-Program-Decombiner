@@ -13,7 +13,7 @@ This application purely utilizes the standard built-in libraries of Python 3.6 a
 ```bash
 # Clone the repository
 git clone [https://github.com/apexcoderz/Apex-Program-Decombiner](https://github.com/apexcoderz/Apex-Program-Decombiner.git)
-cd source-decombiner
+cd Apex-Program-Decombiner
 
 # Grant execution permissions to the script
 chmod +x src/Apex_codedecombiner.py
